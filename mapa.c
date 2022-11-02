@@ -1,5 +1,3 @@
-//Acadêmico: Victor Hugo de Aragão Nakazono
-//R.A. 22172916-5
 //Curso: Engenharia de Software
 //Disciplina: Algoritmo e Lógica de Programação II
 
